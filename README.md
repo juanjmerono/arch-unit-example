@@ -1,3 +1,3 @@
 # arch-unit-example
 
-Check architecture conventions whith unit tests
+Check architecture conventions with unit tests
